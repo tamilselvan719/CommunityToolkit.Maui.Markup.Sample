@@ -1,0 +1,14 @@
+﻿global using CommunityToolkit.Maui.Behaviors;
+global using CommunityToolkit.Maui.Markup.Sample.Models;
+global using CommunityToolkit.Maui.Markup.Sample.Pages;
+global using CommunityToolkit.Maui.Markup.Sample.Pages.Base;
+global using CommunityToolkit.Maui.Markup.Sample.Resources;
+global using CommunityToolkit.Maui.Markup.Sample.Services;
+global using CommunityToolkit.Maui.Markup.Sample.ViewModels;
+global using CommunityToolkit.Maui.Markup.Sample.ViewModels.Base;
+global using CommunityToolkit.Maui.Markup.Sample.Views.News;
+global using CommunityToolkit.Mvvm.ComponentModel;
+global using CommunityToolkit.Mvvm.Input;
+global using System.Collections;
+global using System.Collections.ObjectModel;
+global using System.Globalization;
